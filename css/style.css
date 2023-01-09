@@ -81,3 +81,17 @@ body{
         right: 100%;
     }
 }
+
+.instruc{
+    display: flex;
+    align-items: center;
+}
+
+p{
+    margin: 100px auto;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
